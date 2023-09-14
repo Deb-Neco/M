@@ -1,0 +1,15 @@
+C:\Users\dsi0js\Documents\Estudos\.net\MiniChef\MiniChef.Repository\bin\Debug\net6.0\MiniChef.Repository.deps.json
+C:\Users\dsi0js\Documents\Estudos\.net\MiniChef\MiniChef.Repository\bin\Debug\net6.0\MiniChef.Repository.dll
+C:\Users\dsi0js\Documents\Estudos\.net\MiniChef\MiniChef.Repository\bin\Debug\net6.0\MiniChef.Repository.pdb
+C:\Users\dsi0js\Documents\Estudos\.net\MiniChef\MiniChef.Repository\bin\Debug\net6.0\MiniChef.Domain.dll
+C:\Users\dsi0js\Documents\Estudos\.net\MiniChef\MiniChef.Repository\bin\Debug\net6.0\MiniChef.Domain.pdb
+C:\Users\dsi0js\Documents\Estudos\.net\MiniChef\MiniChef.Repository\obj\Debug\net6.0\MiniChef.Repository.csproj.AssemblyReference.cache
+C:\Users\dsi0js\Documents\Estudos\.net\MiniChef\MiniChef.Repository\obj\Debug\net6.0\MiniChef.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsi0js\Documents\Estudos\.net\MiniChef\MiniChef.Repository\obj\Debug\net6.0\MiniChef.Repository.AssemblyInfoInputs.cache
+C:\Users\dsi0js\Documents\Estudos\.net\MiniChef\MiniChef.Repository\obj\Debug\net6.0\MiniChef.Repository.AssemblyInfo.cs
+C:\Users\dsi0js\Documents\Estudos\.net\MiniChef\MiniChef.Repository\obj\Debug\net6.0\MiniChef.Repository.csproj.CoreCompileInputs.cache
+C:\Users\dsi0js\Documents\Estudos\.net\MiniChef\MiniChef.Repository\obj\Debug\net6.0\MiniChef.Repository.csproj.CopyComplete
+C:\Users\dsi0js\Documents\Estudos\.net\MiniChef\MiniChef.Repository\obj\Debug\net6.0\MiniChef.Repository.dll
+C:\Users\dsi0js\Documents\Estudos\.net\MiniChef\MiniChef.Repository\obj\Debug\net6.0\refint\MiniChef.Repository.dll
+C:\Users\dsi0js\Documents\Estudos\.net\MiniChef\MiniChef.Repository\obj\Debug\net6.0\MiniChef.Repository.pdb
+C:\Users\dsi0js\Documents\Estudos\.net\MiniChef\MiniChef.Repository\obj\Debug\net6.0\ref\MiniChef.Repository.dll

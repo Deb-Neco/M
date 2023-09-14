@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MiniChef.Domain.IRepository
 {
-    public class IReceitasRepository
+    public interface IReceitasRepository
     {
     }
 }

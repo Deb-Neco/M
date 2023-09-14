@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace MiniChef.Domain.IService
 {
-    public class IReceitasService
+    public interface IReceitasService
     {
+        
     }
 }

@@ -1,0 +1,12 @@
+C:\Users\dsi0js\Documents\Estudos\.net\MiniChef\MiniChef.Domain\bin\Debug\net6.0\MiniChef.Domain.deps.json
+C:\Users\dsi0js\Documents\Estudos\.net\MiniChef\MiniChef.Domain\bin\Debug\net6.0\MiniChef.Domain.dll
+C:\Users\dsi0js\Documents\Estudos\.net\MiniChef\MiniChef.Domain\bin\Debug\net6.0\MiniChef.Domain.pdb
+C:\Users\dsi0js\Documents\Estudos\.net\MiniChef\MiniChef.Domain\obj\Debug\net6.0\MiniChef.Domain.csproj.AssemblyReference.cache
+C:\Users\dsi0js\Documents\Estudos\.net\MiniChef\MiniChef.Domain\obj\Debug\net6.0\MiniChef.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsi0js\Documents\Estudos\.net\MiniChef\MiniChef.Domain\obj\Debug\net6.0\MiniChef.Domain.AssemblyInfoInputs.cache
+C:\Users\dsi0js\Documents\Estudos\.net\MiniChef\MiniChef.Domain\obj\Debug\net6.0\MiniChef.Domain.AssemblyInfo.cs
+C:\Users\dsi0js\Documents\Estudos\.net\MiniChef\MiniChef.Domain\obj\Debug\net6.0\MiniChef.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dsi0js\Documents\Estudos\.net\MiniChef\MiniChef.Domain\obj\Debug\net6.0\MiniChef.Domain.dll
+C:\Users\dsi0js\Documents\Estudos\.net\MiniChef\MiniChef.Domain\obj\Debug\net6.0\refint\MiniChef.Domain.dll
+C:\Users\dsi0js\Documents\Estudos\.net\MiniChef\MiniChef.Domain\obj\Debug\net6.0\MiniChef.Domain.pdb
+C:\Users\dsi0js\Documents\Estudos\.net\MiniChef\MiniChef.Domain\obj\Debug\net6.0\ref\MiniChef.Domain.dll

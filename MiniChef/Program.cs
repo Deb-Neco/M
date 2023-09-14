@@ -1,11 +1,16 @@
 
 
+using MiniChef.Domain.IRepository;
 using MiniChef.Domain.IService;
+using MiniChef.Repository;
+using MiniChef.Service;
 
 var builder = WebApplication.CreateBuilder(args);
 
-
-builder.Services.AddTransient<IReceitasService, IReceitasService>(); 
+//builder.Services.AddTransient<IReceitasService, ReceitasService>();
+//builder.Services.AddTransient<IReceitasRepository, ReceitasRepository>();
+//builder.Services.AddTransient<IUserService, UserService>();
+//builder.Services.AddTransient<IUserRepository, UserRepository>();
 
 // Add services to the container.
 
